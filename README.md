@@ -6,6 +6,7 @@ Contain:
 
 > index.html </br>
 > style.css </br>
+> reset.css </br>
 > main.js </br>
 > README.md </br>
 > .gitignore </br>
