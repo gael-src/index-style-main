@@ -2,13 +2,13 @@
 
 HTML CSS JS bare minimum layout to start anything
 
-Contain: 
+Contain:
 
-> index.html 
-
-> style.css 
-
-> main.js
+> index.html </br>
+> style.css </br>
+> main.js </br>
+> README.md </br>
+> .gitignore </br>
 
 https://gael-src.github.io/index-style-main
 
