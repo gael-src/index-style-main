@@ -1,0 +1,20 @@
+{
+  "name": "index-style-main",
+  "version": "1.0.0",
+  "description": "HTML CSS JS bare minimum template to start anything",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gael-src/index-style-main.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gael-src/index-style-main/issues"
+  },
+  "homepage": "https://github.com/gael-src/index-style-main#readme"
+}
