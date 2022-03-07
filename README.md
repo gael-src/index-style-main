@@ -1,6 +1,6 @@
 # Index Style Main
 
-HTML CSS JS bare minimum layout to start anything
+HTML CSS JS bare minimum template to start anything
 
 Contain:
 
