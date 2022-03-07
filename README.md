@@ -8,6 +8,7 @@ Contain:
 > style.css </br>
 > reset.css </br>
 > main.js </br>
+> package.json </br>
 > README.md </br>
 > .gitignore </br>
 
